@@ -35,15 +35,18 @@ ReactToDo/
 ├── public/
 │
 ├── src/
+│   ├── App.css
 │   ├── App.jsx
-│   └── ...
+│   ├── index.css
+│   └── main.jsx
 │
-├── index.html
-├── package.json
-├── package-lock.json
-├── vite.config.js
+├── .gitignore
 ├── eslint.config.js
-└── README.md
+├── index.html
+├── package-lock.json
+├── package.json
+├── README.md
+└── vite.config.js
 ```
 
 ## 📄 File Overview
