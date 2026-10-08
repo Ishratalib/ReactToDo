@@ -2,12 +2,20 @@
 
 A simple and responsive To-Do application built with **React** and **Vite**. This project focuses on practicing React fundamentals, state management, event handling, and dynamic UI rendering while creating a practical task-management application.
 
-## 🚀 Live Demo
+## Live Demo
 
 [View the Live To-Do App](https://ishratalib.github.io/ReactToDo/)
 
+## Technologies Used
 
-## ✨ Features
+* **React**
+* **Vite**
+* **JavaScript (ES6+)**
+* **HTML5**
+* **CSS**
+* **ESLint**
+
+## Features
 
 * Add new tasks
 * Mark tasks as completed
@@ -18,16 +26,7 @@ A simple and responsive To-Do application built with **React** and **Vite**. Thi
 * Responsive user interface
 * Clean and simple design
 
-## 🛠️ Technologies Used
-
-* **React**
-* **Vite**
-* **JavaScript (ES6+)**
-* **HTML5**
-* **CSS**
-* **ESLint**
-
-## 📁 Project Structure
+## Project Structure
 
 ```text
 ReactToDo/
@@ -49,7 +48,7 @@ ReactToDo/
 └── vite.config.js
 ```
 
-## 📄 File Overview
+## File Overview
 
 ### `src/App.jsx`
 
@@ -71,7 +70,7 @@ Contains the Vite configuration, including the configuration required for deploy
 
 Contains the project's dependencies and npm scripts.
 
-## ⚙️ Run the Project Locally
+## Run the Project Locally
 
 ### 1. Clone the repository
 
@@ -107,7 +106,7 @@ npm run dev
 
 Vite will provide a local development URL in the terminal.
 
-## 🏗️ Build for Production
+## Build for Production
 
 To create a production build:
 
@@ -117,7 +116,7 @@ npm run build
 
 The production files are generated inside the `dist` folder.
 
-## 🌐 Deployment
+## Deployment
 
 This project is deployed using **GitHub Pages**.
 
@@ -133,7 +132,7 @@ To deploy the application:
 npm run deploy
 ```
 
-## 📚 What I Practiced
+## What I Practiced
 
 While building this project, I practiced:
 
@@ -148,12 +147,10 @@ While building this project, I practiced:
 * Vite development and production builds
 * Deploying a React application with GitHub Pages
 
-## 🎯 Project Purpose
+## Project Purpose
 
 This project was created as a hands-on React practice project to move from traditional JavaScript DOM manipulation toward **React-based UI development and state management**.
 
-## 👩‍💻 Author
+## Author
 
 **Ishrat Talib**
-
-Built as part of my frontend development learning journey.
